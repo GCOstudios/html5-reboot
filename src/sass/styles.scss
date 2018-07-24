@@ -1,2 +1,8 @@
 // Bootstrap Reboot (reset)
 @import 'bootstrap-reboot';
+
+// Utilities, variables, mixins and helpers
+@import 'utils/variables';
+
+// Layout
+@import 'layout/layout';

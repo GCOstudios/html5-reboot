@@ -273,3 +273,5 @@ template {
 
 [hidden] {
   display: none !important; }
+body {
+  background: #f9f9f9; }

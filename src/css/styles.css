@@ -273,5 +273,12 @@ template {
 
 [hidden] {
   display: none !important; }
-body {
-  background: #f9f9f9; }
+.container {
+  margin: auto;
+  padding: 1rem 0;
+  max-width: 1180px; }
+
+header {
+  background-color: skyblue; }
+  header a {
+    color: white; }
